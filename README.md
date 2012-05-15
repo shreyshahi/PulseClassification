@@ -22,6 +22,8 @@ cont_wavelet_trans.m : This funtion is used to perform the continuous wavelet tr
 
 parseAT2.m : This function parses the NGA West2 AT2 files.
 
+example1.AT2 , example2.AT2 : Example time-histories (recorded components of the Imperial Valley(1979) El centro Array #4 recording) used for demonstration.
+
 Directivity ground motions
 ==========================
 
