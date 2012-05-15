@@ -52,7 +52,7 @@ end
 if(length(A1) == length(A2))
     % Check if the length of records are the same.
     [pulseData, rotAngles,selectedCol,selectedRow] = classification_algo(signal1,signal2,dt);
-    fn = './classification_result2.mat';
+    fn = './classification_result.mat';
     save(fn,'pulseData','rotAngles','selectedCol','selectedRow');
 else
     disp('length(A1) ~= length(A2), even though the NPTS are same');
