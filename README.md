@@ -24,11 +24,6 @@ parseAT2.m : This function parses the NGA West2 AT2 files.
 
 example1.AT2 , example2.AT2 : Example time-histories (recorded components of the Imperial Valley(1979) El centro Array #4 recording) used for demonstration.
 
-Directivity ground motions
-==========================
-
-Note that this algorithm is used to classify ground-motion recording as a pulse-like record or non pulse-like record. The list of directivity ground motions is a subset of the pulse-like ground motions. The pulse-like ground-motions are manually filtered using the source-to-site geometry to prepare a list of directivity ground-motions. Refer to Shahi and Baker (2012) for more details
-
 References
 ===========
 
