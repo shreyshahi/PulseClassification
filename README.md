@@ -6,7 +6,7 @@ This set of Matlab scripts and functions implements the Shahi and Baker (2012) m
 Contents
 ========
 
-classifyRecord_main : This scripts is the one that calls other functions to classify a ground motion as a pulse/non-pulse and then compute the Ipulse and Tp values.
+classify_record_main : This scripts is the one that calls other functions to classify a ground motion as a pulse/non-pulse and then compute the Ipulse and Tp values.
 
 classification_algo.m : This defines the function that selects the prospective pulses for classification
 
