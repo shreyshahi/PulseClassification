@@ -27,4 +27,4 @@ example1.AT2 , example2.AT2 : Example time-histories (recorded components of the
 References
 ===========
 
-Shahi S.K., and  Baker J.W. (2013). "An efficient algorithm to identify strong velocity pulses in multi-component ground-motions". (under preparation) 
+Shahi S.K., and  Baker J.W. (2013). "An efficient algorithm to identify strong velocity pulses in multi-component ground-motions". Bulletin of the Seismological Society of America (under reviw) 
