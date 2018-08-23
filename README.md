@@ -1,7 +1,7 @@
 Pulse classification algorithm
 ===============================
 
-This set of Matlab scripts and functions implements the Shahi and Baker (2012) multi-component pulse classification algorithm.
+This set of Matlab scripts and functions implements the Shahi and Baker (2014) multi-component pulse classification algorithm.
 
 Contents
 ========
@@ -24,7 +24,15 @@ parseAT2.m : This function parses the NGA West2 AT2 files.
 
 example1.AT2 , example2.AT2 : Example time-histories (recorded components of the Imperial Valley(1979) El centro Array #4 recording) used for demonstration.
 
+Other Information
+===========
+
+Example classification results are available at https://web.stanford.edu/~bakerjw/pulse_classification_v2/Pulse-like-records.html
+
+The NGA-West2 data used for this analysis is available at https://ngawest2.berkeley.edu/
+
+
 References
 ===========
 
-Shahi S.K., and  Baker J.W. (2013). "An efficient algorithm to identify strong velocity pulses in multi-component ground-motions". Bulletin of the Seismological Society of America (under review) 
+Shahi S.K., and  Baker J.W. (2014). "An efficient algorithm to identify strong velocity pulses in multi-component ground-motions". Bulletin of the Seismological Society of America, 104(5), 2456–2466.
